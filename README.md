@@ -13,8 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
-
-changement d'un petittruc 
+non rien enfaite
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
